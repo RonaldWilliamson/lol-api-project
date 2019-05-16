@@ -14,6 +14,8 @@ todo first
   database???????
   aws info??
 
+also i will be putting old stuff in it on folder so if you looking for sample data it be there.
+
 make better read me with real grammer lamo.
  im going to be working on ways to collect data
 spencer and john look into stats that poeple would like to know and i will be posting a way to get the raw data if you would like to see but check roit api for infomation on data .
